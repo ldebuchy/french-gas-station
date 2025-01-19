@@ -1,0 +1,32 @@
+body, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+
+body {
+    background-color: #37B5D2;
+    font-family: 'Calibri', sans-serif;
+}
+
+h1, p{
+    color:#000000;
+    text-align: center; 
+}
+
+.param {
+    width: 50%;
+    margin: auto;
+    background-color: #EDEDED;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.result {
+    margin-top: 100px;
+    width: 50%;
+    margin: auto;
+    background-color: #EDEDED;
+    border-radius: 20px;
+    padding: 20px;
+}
